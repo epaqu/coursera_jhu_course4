@@ -1,0 +1,43 @@
+body {
+	font-family: 'Gurajada', serif;
+	font-size: 100%;
+	color: #FFFFFF;
+	background-color: #9FABC2;
+}
+
+/** Header **/
+#header-nav {
+	font-size: 250%;
+	background-color: lightyellow;
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar-brand h1 {
+	padding-top: 10px;
+	color: #606054;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: 0;
+}
+
+h2 {
+	font-family: 'Garamond', serif;
+	font-size: 500%;
+}
+
+#menu {
+	font-size: 250%;
+	color: #606054;
+	background-color: #FFFFFF;
+	padding: 3%;
+	margin: 3%;
+	width: auto;
+}
+
+#chicken, #beef, #sushi {
+	margin-bottom: 0px;
+	margin-top: 20px;
+	font-weight: bold;
+	font-size: 150%;
+}
